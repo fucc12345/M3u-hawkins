@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://example.com/photo1.jpg", Hum Sath Sath Hai
+
+#EXTINF:-1 tvg-id="vod1" tvg-name="Hum Sath Sath Hai" tvg-logo="https://example.com/posters/hum.jpg" group-title="Bollywood Movies", Hum Sath Sath Hai
 https://pixeldrain.dev/api/file/kPLoqwoi?download
-#EXTINF:-1 tvg-logo="https://example.com/photo2.jpg", Episode 2
+
+#EXTINF:-1 tvg-id="vod2" tvg-name="Squid Game Ep 1" tvg-logo="https://example.com/posters/squid1.jpg" group-title="Web Series", Squid Game - Episode 1
 https://pixeldrain.dev/api/file/74QiLoJ8?download
-#EXTINF:-1 tvg-logo="https://example.com/photo3.jpg", Episode 3
+
+#EXTINF:-1 tvg-id="vod3" tvg-name="Squid Game Ep 2" tvg-logo="https://example.com/posters/squid2.jpg" group-title="Web Series", Squid Game - Episode 2
 https://pixeldrain.dev/api/file/bQ3jWJRE?download
